@@ -8,6 +8,7 @@
 - [Em 2022-1 (4ºSemestre)](#4Semestre)
 - [Em 2022-2 (5ºSemestre)](#5Semestre)
 - [Em 2023-1 (6ºSemestre)](#6Semestre)
+- [Meus Principais Conhecimentos](#Conhecimentos)
 - [Contatos](#Contatos)
 
 # Matheus Emboaba Mello de Souza
@@ -68,7 +69,11 @@ Proatividade: Participar do máximo possível de Task.
 
 [GIT](#)
 
-## Meus Principais Conhecimentos
+## Meus Principais Conhecimentos<a name="Conhecimentos"></a>
+
+- JavaScript (mobile)
+- MySQL
+- Prototipagem no FIGMA
 
 ## Contatos<a name="Contatos"></a>
 * [GIT](https://github.com/MatheusEmboabaTeteu)
