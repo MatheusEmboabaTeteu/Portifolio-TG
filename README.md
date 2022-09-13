@@ -47,6 +47,7 @@ HTML- Sei fazer com ajuda.
 #### Soft Skills
 
 Empatia: Com os membros ao qual estavam ingressando.
+
 Proatividade: Participar do máximo possível de Task.
 
 ### Em 2021-1 (2ºSemestre)<a name="2Semestre"></a>
