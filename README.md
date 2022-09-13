@@ -65,7 +65,7 @@ Proatividade: Participar do máximo possível de Task.
 
 ### Em 2023-1 (5ºSemestre)<a name="6Semestre"></a>
 
-[GIT]
+[GIT](#)
 
 ## Meus Principais Conhecimentos
 
