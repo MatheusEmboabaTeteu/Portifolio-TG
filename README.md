@@ -9,21 +9,21 @@
 - [Em 2022-2 (5ºSemestre)](#5Semestre)
 - [Contatos](#Contatos)
 
-# Introdução <a name="introducao"></a>
-
 # Matheus Emboaba Mello de Souza
 ![mts](https://user-images.githubusercontent.com/70578084/190001067-7100f28d-6212-4872-bd3c-59ffa89962fd.jpeg)
 
-## Introdução <a name="Introducao"></a>
+## Introdução <a name="introducao"></a>
 
-Estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC Prof.º Jessen Vidal, São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
+Estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC Prof.º Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/), São José dos Campos.
 
 ## Meus Projetos <a name="MeusProjetos"></a>
 
-### Em 2020-2 (1ºSemestre) <a name="1Semestre"></a>
+### Em 2020-2 (1ºSemestre) <a name="1Semestre"></a> 
+## Parceiro Acadêmico: Fatec
+
 ![SharEduca](https://user-images.githubusercontent.com/70578084/190001113-8e8f510f-d8b7-413c-bdb9-2d3f237ab393.jpeg)
 
-O problema fornecido pela empresa parceira Acadêmica foi a necessidade de venda de conteúdos acadêmicos em um site, a solução foi um site ao qual foi fornecido materiais de ensino criado manualmente prontos para venda. 
+O problema fornecido pela empresa parceira Acadêmica foi a necessidade de um site para venda de conteúdos acadêmicos, a solução foi um site ao qual foi fornecido materiais de ensino criado manualmente prontos para venda. 
 
 [GIT](https://github.com/Leo0256/Equipe_Lider-Projeto_Integrador)
 
@@ -39,7 +39,13 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 
 #### Hard Skills
 
+Figma- Sei fazer com autonomia
+HTML- Sei fazer com ajuda.
+
 #### Soft Skills
+
+Empatia: Com os membros ao qual estavam ingressando.
+Proatividade: Participar do máximo possível de Task.
 
 ### Em 2021-1 (2ºSemestre)<a name="2Semestre"></a>
 
