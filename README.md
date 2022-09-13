@@ -7,6 +7,7 @@
 - [Em 2021-2 (3ºSemestre)](#3Semestre)
 - [Em 2022-1 (4ºSemestre)](#4Semestre)
 - [Em 2022-2 (5ºSemestre)](#5Semestre)
+- [Em 2023-1 (5ºSemestre)](#6Semestre)
 - [Contatos](#Contatos)
 
 # Matheus Emboaba Mello de Souza
@@ -63,7 +64,7 @@ Proatividade: Participar do máximo possível de Task.
 
 [GIT](https://github.com/Jonathan-Assis/API-5-OP-2022-2)
 
-### Em 2023-1 (5ºSemestre)<a name="6Semestre"></a>
+### Em 2023-1 (6ºSemestre)<a name="6Semestre"></a>
 
 [GIT](#)
 
