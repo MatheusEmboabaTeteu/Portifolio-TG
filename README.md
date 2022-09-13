@@ -43,11 +43,19 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 
 ### Em 2021-1 (2ºSemestre)<a name="(2Semestre)"></a>
 
+[GIT] (https://github.com/Leo0256/Equipe_Lider-Projeto_GSW)
+
 ### Em 2021-2 (3ºSemestre)<a name="(3Semestre)"></a>
+
+[GIT] (https://github.com/Leo0256/API-IoniCRM_IonicHealth)
 
 ### Em 2022-1 (4ºSemestre)<a name="(4Semestre)"></a>
 
+[GIT] (https://github.com/Leo0256/API-4-SrSoja-2022-1)
+
 ### Em 2022-2 (5ºSemestre)<a name="(5Semestre)"></a>
+
+[GIT] (https://github.com/Jonathan-Assis/API-5-OP-2022-2)
 
 ## Meus Principais Conhecimentos
 
