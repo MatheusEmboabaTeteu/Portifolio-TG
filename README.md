@@ -7,7 +7,7 @@
 - [Em 2021-2 (3ºSemestre)](#3Semestre)
 - [Em 2022-1 (4ºSemestre)](#4Semestre)
 - [Em 2022-2 (5ºSemestre)](#5Semestre)
-- [Em 2023-1 (5ºSemestre)](#6Semestre)
+- [Em 2023-1 (6ºSemestre)](#6Semestre)
 - [Contatos](#Contatos)
 
 # Matheus Emboaba Mello de Souza
