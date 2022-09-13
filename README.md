@@ -2,7 +2,7 @@
 
 - [Introdução](#introducao)
 - [Meus Projetos](#MeusProjetos)
-- [Em 2020-2 (1ºSemestre)](###-Em-2020-2-(1ºSemestre)
+- [Em 2020-2 (1ºSemestre)](#-Em-2020-2-(1ºSemestre)
 - [Em 2021-1 (2ºSemestre)](#2Semestre)
 - [Em 2021-2 (3ºSemestre)](#3Semestre)
 - [Em 2022-1 (4ºSemestre)](#4Semestre)
