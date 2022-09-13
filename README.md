@@ -20,7 +20,7 @@ Estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC P
 
 ## Meus Projetos <a name="MeusProjetos"></a>
 
-### Em 2020-2 (1ºSemestre) <a name="(1Semestre)"></a>
+### Em 2020-2 (1ºSemestre)<a name="(1Semestre)"></a>
 ![SharEduca](https://user-images.githubusercontent.com/70578084/190001113-8e8f510f-d8b7-413c-bdb9-2d3f237ab393.jpeg)
 
 O problema fornecido pela empresa parceira Acadêmica foi a necessidade de venda de conteúdos acadêmicos em um site, a solução foi um site ao qual foi fornecido materiais de ensino criado manualmente prontos para venda. 
@@ -41,13 +41,13 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 
 #### Soft Skills
 
-### Em 2021-1 (2ºSemestre) <a name="(2Semestre)"></a>
+### Em 2021-1 (2ºSemestre)<a name="(2Semestre)"></a>
 
-### Em 2021-2 (3ºSemestre) <a name="(3Semestre)"></a>
+### Em 2021-2 (3ºSemestre)<a name="(3Semestre)"></a>
 
-### Em 2022-1 (4ºSemestre) <a name="(4Semestre)"></a>
+### Em 2022-1 (4ºSemestre)<a name="(4Semestre)"></a>
 
-### Em 2022-2 (5ºSemestre) <a name="(5Semestre)"></a>
+### Em 2022-2 (5ºSemestre)<a name="(5Semestre)"></a>
 
 ## Meus Principais Conhecimentos
 
