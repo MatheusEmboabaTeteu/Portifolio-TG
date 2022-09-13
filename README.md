@@ -2,11 +2,11 @@
 
 - [Introdução](#introducao)
 - [Meus Projetos](#MeusProjetos)
-- [Em 2020-2 (1ºSemestre)](#1Semestre)
-- [Em 2021-1 (2ºSemestre)](#2Semestre)
-- [Em 2021-2 (3ºSemestre)](#3Semestre)
-- [Em 2022-1 (4ºSemestre)](#4Semestre)
-- [Em 2022-2 (5ºSemestre)](#5Semestre)
+- [Em 2020-2 1ºSemestre](#1Semestre)
+- [Em 2021-1 2ºSemestre](#2Semestre)
+- [Em 2021-2 3ºSemestre](#3Semestre)
+- [Em 2022-1 4ºSemestre](#4Semestre)
+- [Em 2022-2 5ºSemestre](#5Semestre)
 - [Contatos](#Contatos)
 
 # Introdução <a name="introducao"></a>
@@ -59,6 +59,6 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 
 ## Meus Principais Conhecimentos
 
-## Contatos <a name="(Contatos)"></a>
+## Contatos<a name="(Contatos)"></a>
 * [GIT](https://github.com/MatheusEmboabaTeteu)
 * [LinkedIn](https://www.linkedin.com/in/matheus-emboaba-a21970236)
