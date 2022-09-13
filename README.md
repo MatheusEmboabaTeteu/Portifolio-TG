@@ -1,4 +1,5 @@
 # Matheus Emboaba Mello de Souza
+![mts](https://user-images.githubusercontent.com/70578084/190001067-7100f28d-6212-4872-bd3c-59ffa89962fd.jpeg)
 
 ## Introdução
 
@@ -7,6 +8,7 @@ Estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC P
 ## Meus Projetos
 
 ### Em 2020-2
+![SharEduca](https://user-images.githubusercontent.com/70578084/190001113-8e8f510f-d8b7-413c-bdb9-2d3f237ab393.jpeg)
 
 O problema fornecido pela empresa parceira Acadêmica foi a necessidade de venda de conteúdos acadêmicos em um site, a solução foi um site ao qual foi fornecido materiais de ensino criado manualmente prontos para venda. 
 
