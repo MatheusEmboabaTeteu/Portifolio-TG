@@ -41,14 +41,13 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 
 #### Hard Skills
 
-Figma- Sei fazer com autonomia
-HTML- Sei fazer com ajuda.
+- Figma- Sei fazer com autonomia.
+- HTML- Sei fazer com ajuda.
 
 #### Soft Skills
 
-Empatia: Com os membros ao qual estavam ingressando.
-
-Proatividade: Participar do máximo possível de Task.
+- Empatia: Com os membros ao qual estavam ingressando.
+- Proatividade: Participar do máximo possível de Task.
 
 ### Em 2021-1 (2ºSemestre)<a name="2Semestre"></a>
 
