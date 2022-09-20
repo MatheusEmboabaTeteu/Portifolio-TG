@@ -16,7 +16,7 @@
 
 ## Introdução <a name="introducao"></a>
 
-Estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC Prof.º Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/), São José dos Campos.
+Sou Matheus Emboaba, nasci em 2001 e moro em São José dos Campos, SP e sou estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC Prof.º Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/), de São José dos Campos.
 
 ## Meus Projetos <a name="MeusProjetos"></a>
 
