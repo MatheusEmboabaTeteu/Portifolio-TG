@@ -102,7 +102,7 @@ A empresa parceira foi a Ionic Health.
 O problema fornecido pela empresa parceira Acadêmica foi criar CRM (Customer Relationship Management) 
 para o gerenciamento de clientes e pipelines.
 
-![LOGO TIPO grande](https://user-images.githubusercontent.com/70578084/196604695-f08516e0-0ff9-4f63-a0b0-923e17e7c985.png)
+![LOGO TIPO grande](https://user-images.githubusercontent.com/70578084/196605168-2e767826-94e3-4028-9077-237bcbb4b308.png)
 
 A solução foi desenvolver o IoniCRM, um site oferece ajuda nas áreas negócios da empresa com gestão de pipelines e o acompanhamento e monitoramento de seus cliente.
 
