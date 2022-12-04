@@ -29,7 +29,7 @@ O problema fornecido pela empresa parceira Acadêmica foi a necessidade de um si
 
 [GIT](https://github.com/Leo0256/Equipe_Lider-Projeto_Integrador)
 
-#### Tecnologias Utilizadas 
+#### Tecnologias Utilizadas:
 
 - PHP foi utilizado para criar toda dinâmica (BACK-END) do site.
 - HTML foi utilizado para criar o layout visual do (FRONT-END) do site.
@@ -58,11 +58,11 @@ O problema fornecido pela empresa parceira Acadêmica foi a necessidade de uma a
 
 ![GSW Project Visual](https://user-images.githubusercontent.com/70578084/196573438-c2d0e5b0-91fd-4501-91f9-7ebae6a680c1.png)
 
-A solução foi desenvolver o GSW Project Visual um aplicativo para computadores com Windows que mostra os dados dos projetos de um JSON junto com seu status de progreso pelo gerenciador de projetos (Trello ou JIRA).
+A solução foi desenvolver o GSW Project Visual um aplicativo para computadores com Windows que mostra os dados dos projetos de um JSON junto com seu status de progresso pelo gerenciador de projetos (Trello ou JIRA).
 
 [GIT](https://github.com/Leo0256/Equipe_Lider-Projeto_GSW)
 
-#### Tecnologias Utilizadas 
+#### Tecnologias Utilizadas:
 
 - C# foi utilizado para aplicação e desenvolvimento do BACK-END.
 
@@ -108,7 +108,7 @@ A solução foi desenvolver o IoniCRM, um site oferece ajuda nas áreas negócio
 
 [GIT](https://github.com/Leo0256/API-IoniCRM_IonicHealth)
 
-#### Tecnologias Utilizadas 
+#### Tecnologias Utilizadas:
 
 - C# foi utilizado para aplicação e desenvolvimento do BACK-END e no FRONT-END.
 
@@ -143,11 +143,107 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 
 ### Em 2022-1 (4ºSemestre)<a name="4Semestre"></a>
 
+## Parceiro Acadêmico
+A empresa parceira foi a Visiona Tecnologia Espacial.
+
+Criação de um Aplicativo colaborativo para produtores rurais.
+
+Produtor - Estas informações consistem em dados alfa numéricos e imagens georreferenciadas pelo GPS do celular.
+
+Contrapartida - Através dos dados de diversos usuários, o APP fornecerá ao usuário informações estatísticas sobre
+sua produção, comparando -a com dados históricos acessadas de APIs públicas e informações atuais de outros usuários.
+
+![SrSoja_Logo](https://user-images.githubusercontent.com/70578084/205469342-eb803b49-f289-4e3d-9ff1-65f083532fd4.png)
+
+A solução foi desenvolver o SrSoja, um App onde o agricultor possa analisar a sua propriedade, seu talhão agrícola, levantar dados de produtividade e alimentar um banco de dados.
+
 [GIT](https://github.com/Leo0256/API-4-SrSoja-2022-1)
+
+#### Tecnologias Utilizadas:
+
+- React Native:
+
+    Devido ao crescimento da biblioteca, e conjunto da linguagem JavaScript, e a praticidade no desenvolvimento híbrido de aplicativos mobile.
+
+- JavaScript:
+
+    Permite liberdade e amplitude para o desenvolvimento, além de virtualmente funcionar em aplicações IOS e Android.
+
+- PostGreSql:
+
+    Por famuliaridade em projetos anteriores e pelo suporte nativo ao JSON, facilitando o desenvolvimento.
+
+
+- SqlLite:
+
+    Pela possibilidade de criar um banco de dados embutido, possibilitando o funcionamento offline de um aplicativo mobile.
+
+#### Contribuições Pessoais
+
+Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de tela de home junto com parte de seus componentes e a criação da tela mapa e em parte com a tela clima.
+
+#### Hard Skills
+
+- React Native - sei fazer com ajuda.
+
+- JavaScript - sei fazer com ajuda.
+
+#### Soft Skills
+
+- Flexibilidade: Para se adaptar à nova Tecnologia.
+
+- Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
+
 
 ### Em 2022-2 (5ºSemestre)<a name="5Semestre"></a>
 
+## Parceiro Acadêmico
+A empresa parceira foi a Fatec.
+
+A criação de uma aplicação mobile para coleta de dados públicos, de acordo com o conceito citizens sensors, para auxilio da secretaria de obras e serviço público.
+
+![LogoOP](https://user-images.githubusercontent.com/70578084/205470270-e19b5e49-28db-459b-852f-71a5b0158946.png)
+
+
+A solução foi desenvolver o OP (Projeto Ocorrências Públicas), um App onde o cidadão possa reportar e visualizar as próprias ocorrências registradas e de outras pessoas da cidade.
+
 [GIT](https://github.com/Jonathan-Assis/API-5-OP-2022-2)
+
+#### Tecnologias Utilizadas:
+
+- React Native:
+
+    Utilizado pela versatilidade e praticidade no desenvolvimento híbrido para aplicações mobile.
+
+- JavaScriprt:
+    
+    Tecnologia principal do desenvolvimento, utilizada para a estruturação do servidor/Back-end (NodeJS) e as funcionalidades do Front-end (React Native).
+
+- Node.JS:
+    
+    Utilizado para o Back-end da aplicação, onde o Node tem por foco no desenvolvimento próximo ao servidor.
+
+- MongoDB:
+
+    Banco de Dados não relacional, utilizado para armazenar os dados da aplicação em JSON.
+
+#### Contribuições Pessoais
+
+Contribui com o desenvolvimento da tela de home e com algumas funções de buscas e componentes na tela de reportagem de ocorrência e com adição de máscaras nos registros.
+
+#### Hard Skills
+
+- React Native - sei fazer com ajuda.
+
+- JavaScript - sei fazer com ajuda.
+
+- MongoDB - sei fazer com ajuda.
+
+#### Soft Skills
+
+- Flexibilidade: Para se adaptar à novos métodos.
+
+- Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
 ### Em 2023-1 (6ºSemestre)<a name="6Semestre"></a>
 
