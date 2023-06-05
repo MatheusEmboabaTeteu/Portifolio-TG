@@ -99,7 +99,9 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a ajudei na cria
 
 - Empatia: Os membros estavam tendo dificuldade com conhecimento das tecnologias e de como usá-las.
 
+
 ## Em 2021-2 (3ºSemestre)<a name="3-Semestre"></a>
+
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Ionic Health.
