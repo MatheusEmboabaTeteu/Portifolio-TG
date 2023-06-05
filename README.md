@@ -17,13 +17,13 @@
 
 ![Matheus](https://github.com/MatheusEmboabaTeteu/Portifolio-TG/assets/70578084/5d2aadc0-671b-4bc8-ace4-a0a8aa51ffe3)
 
-## Introdução <a name="introducao"></a>
+## Introdução<a name="introducao"></a>
 
 Sou Matheus Emboaba, nasci em 2001 e moro em São José dos Campos, SP fiz técnico em química juntamente com o ensino médio na mesma instituição particular a ECOMPO em SJC e atualmente sou estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC Prof.º Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/), de São José dos Campos, não tive nenhuma experiência de outra faculdade prévia ou até mesmo de um emprego.
 
-## Meus Projetos <a name="Meus-Projetos"></a>
+## Meus Projetos<a name="Meus-Projetos"></a>
 
-### Em 2020-2 (1ºSemestre) <a name="1-Semestre"></a> 
+### Em 2020-2 (1ºSemestre)<a name="1-Semestre"></a> 
 ## Parceiro Acadêmico: Fatec
 
 ![SharEduca](https://user-images.githubusercontent.com/70578084/190001113-8e8f510f-d8b7-413c-bdb9-2d3f237ab393.jpeg)
@@ -248,7 +248,7 @@ Contribui com o desenvolvimento da tela de home (JavaScript/CSS) e com algumas f
 
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
-### Em 2023-1 (6ºSemestre)<a name="6-Semestre"></a>
+## Em 2023-1 (6ºSemestre)<a name="6-Semestre"></a>
 
 ## Parceiro Acadêmico
 
