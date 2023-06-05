@@ -1,13 +1,13 @@
 # Sumário <br id="topo">
 
 - [Introdução](#introducao)
-- [Meus Projetos](#MeusProjetos)
-- [Em 2020-2 (1ºSemestre)](#1Semestre)
-- [Em 2021-1 (2ºSemestre)](#2Semestre)
-- [Em 2021-2 (3ºSemestre)](#3Semestre)
-- [Em 2022-1 (4ºSemestre)](#4Semestre)
-- [Em 2022-2 (5ºSemestre)](#5Semestre)
-- [Em 2023-1 (6ºSemestre)](#6Semestre)
+- [Meus Projetos](#Meus-Projetos)
+- [Em 2020-2 (1ºSemestre)](#1-Semestre)
+- [Em 2021-1 (2ºSemestre)](#2-Semestre)
+- [Em 2021-2 (3ºSemestre)](#3-Semestre)
+- [Em 2022-1 (4ºSemestre)](#4-Semestre)
+- [Em 2022-2 (5ºSemestre)](#5-Semestre)
+- [Em 2023-1 (6ºSemestre)](#6-Semestre)
 - [Meus Principais Conhecimentos](#Conhecimentos)
 - [Contatos](#Contatos)
 
@@ -21,9 +21,9 @@
 
 Sou Matheus Emboaba, nasci em 2001 e moro em São José dos Campos, SP fiz técnico em química juntamente com o ensino médio na mesma instituição particular a ECOMPO em SJC e atualmente sou estudante do 5° Semestre de Análise e Desenvolvimento de Sistemas, na [FATEC Prof.º Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/), de São José dos Campos, não tive nenhuma experiência de outra faculdade prévia ou até mesmo de um emprego.
 
-## Meus Projetos <a name="MeusProjetos"></a>
+## Meus Projetos <a name="Meus-Projetos"></a>
 
-### Em 2020-2 (1ºSemestre) <a name="1Semestre"></a> 
+### Em 2020-2 (1ºSemestre) <a name="1-Semestre"></a> 
 ## Parceiro Acadêmico: Fatec
 
 ![SharEduca](https://user-images.githubusercontent.com/70578084/190001113-8e8f510f-d8b7-413c-bdb9-2d3f237ab393.jpeg)
@@ -52,7 +52,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 - Empatia: Foi vital para a equipe já que grande parte da equipe não tinha formação previa na área e tão pouco conhecimento.
 - Proatividade: Foi necessário, com poucos familiarizados com as tecnologias tivemos dar a iniciativa e pegar tasks ao qual nunca tivemos nenhum contato para adquirir conhecimento e experiência o mais rápido possível.
 
-### Em 2021-1 (2ºSemestre)<a name="2Semestre"></a>
+### Em 2021-1 (2ºSemestre)<a name="2-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a GSW Soluções Integradas.
@@ -97,7 +97,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a ajudei na cria
 
 - Empatia: Os membros estavam tendo dificuldade com conhecimento das tecnologias e de como usá-las.
 
-### Em 2021-2 (3ºSemestre)<a name="3Semestre"></a>
+### Em 2021-2 (3ºSemestre)<a name="3-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Ionic Health.
@@ -144,7 +144,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 
 - Empatia: Os membros estavam tendo dificuldade com conhecimento.
 
-### Em 2022-1 (4ºSemestre)<a name="4Semestre"></a>
+### Em 2022-1 (4ºSemestre)<a name="4-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Visiona Tecnologia Espacial.
@@ -198,7 +198,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
 
-### Em 2022-2 (5ºSemestre)<a name="5Semestre"></a>
+### Em 2022-2 (5ºSemestre)<a name="5-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Fatec.
@@ -248,7 +248,7 @@ Contribui com o desenvolvimento da tela de home (JavaScript/CSS) e com algumas f
 
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
-### Em 2023-1 (6ºSemestre)<a name="6Semestre"></a>
+### Em 2023-1 (6ºSemestre)<a name="6-Semestre"></a>
 
 ## Parceiro Acadêmico
 
@@ -259,6 +259,8 @@ O problema fornecido pela empresa foi criar uma ferramenta de comparação de pr
 ![LogoeFinance](https://github.com/MatheusEmboabaTeteu/Portifolio-TG/assets/70578084/904a4118-e18e-4d95-aa0e-34370a96d1bf)
 
 A solução foi desenvolver o eFinance, uma plataforma web que disponibiliza previsão de valores de tarifas dos serviços bancários das mais diversas instituições presentes no Open Finance Brasil e paineis para comparalos.
+
+[GIT](https://github.com/cluster-8/eFinance)
 
 #### Tecnologias Utilizadas:
 
