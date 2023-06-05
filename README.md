@@ -2,12 +2,12 @@
 
 - [Introdução](#introducao)
 - [Meus Projetos](#Meus-Projetos)
-- [Em 2020-2 (1ºSemestre)](##1-Semestre)
-- [Em 2021-1 (2ºSemestre)](##2-Semestre)
-- [Em 2021-2 (3ºSemestre)](##3-Semestre)
-- [Em 2022-1 (4ºSemestre)](##4-Semestre)
-- [Em 2022-2 (5ºSemestre)](##5-Semestre)
-- [Em 2023-1 (6ºSemestre)](##6-Semestre)
+- [Em 2020-2 (1ºSemestre)](#1-Semestre)
+- [Em 2021-1 (2ºSemestre)](#2-Semestre)
+- [Em 2021-2 (3ºSemestre)](#3-Semestre)
+- [Em 2022-1 (4ºSemestre)](#4-Semestre)
+- [Em 2022-2 (5ºSemestre)](#5-Semestre)
+- [Em 2023-1 (6ºSemestre)](#6-Semestre)
 - [Meus Principais Conhecimentos](#Conhecimentos)
 - [Contatos](#Contatos)
 
@@ -23,7 +23,7 @@ Sou Matheus Emboaba, nasci em 2001 e moro em São José dos Campos, SP fiz técn
 
 ## Meus Projetos<a name="Meus-Projetos"></a>
 
-### Em 2020-2 (1ºSemestre)<a name="1-Semestre"></a> 
+## Em 2020-2 (1ºSemestre)<a name="1-Semestre"></a> 
 ## Parceiro Acadêmico: Fatec
 
 ![SharEduca](https://user-images.githubusercontent.com/70578084/190001113-8e8f510f-d8b7-413c-bdb9-2d3f237ab393.jpeg)
@@ -52,7 +52,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 - Empatia: Foi vital para a equipe já que grande parte da equipe não tinha formação previa na área e tão pouco conhecimento.
 - Proatividade: Foi necessário, com poucos familiarizados com as tecnologias tivemos dar a iniciativa e pegar tasks ao qual nunca tivemos nenhum contato para adquirir conhecimento e experiência o mais rápido possível.
 
-### Em 2021-1 (2ºSemestre)<a name="2-Semestre"></a>
+## Em 2021-1 (2ºSemestre)<a name="2-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a GSW Soluções Integradas.
@@ -97,7 +97,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a ajudei na cria
 
 - Empatia: Os membros estavam tendo dificuldade com conhecimento das tecnologias e de como usá-las.
 
-### Em 2021-2 (3ºSemestre)<a name="3-Semestre"></a>
+## Em 2021-2 (3ºSemestre)<a name="3-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Ionic Health.
@@ -144,7 +144,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 
 - Empatia: Os membros estavam tendo dificuldade com conhecimento.
 
-### Em 2022-1 (4ºSemestre)<a name="4-Semestre"></a>
+## Em 2022-1 (4ºSemestre)<a name="4-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Visiona Tecnologia Espacial.
@@ -198,7 +198,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
 
-### Em 2022-2 (5ºSemestre)<a name="5-Semestre"></a>
+## Em 2022-2 (5ºSemestre)<a name="5-Semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Fatec.
