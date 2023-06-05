@@ -11,8 +11,11 @@
 - [Meus Principais Conhecimentos](#Conhecimentos)
 - [Contatos](#Contatos)
 
-# Matheus Emboaba Mello de Souza
-![Matheus](https://user-images.githubusercontent.com/70578084/190922270-2318b26d-1584-4502-af63-ef647b46564c.jpeg)
+# Matheus Emboaba Mello de Souza!
+
+
+
+![Matheus](https://github.com/MatheusEmboabaTeteu/Portifolio-TG/assets/70578084/5d2aadc0-671b-4bc8-ace4-a0a8aa51ffe3)
 
 ## Introdução <a name="introducao"></a>
 
@@ -76,7 +79,7 @@ A solução foi desenvolver o GSW Project Visual um aplicativo para computadores
 
 #### Contribuições Pessoais
 
-Contribui com o desenvolvimento do layout utilizando o FIGMA, e a ajudei na criação do banco de dados.
+Contribui com o desenvolvimento do layout utilizando o FIGMA, e a ajudei na criação do banco de dados (C#/MySQL).
 
 #### Hard Skills
 
@@ -123,7 +126,7 @@ A solução foi desenvolver o IoniCRM, um site oferece ajuda nas áreas negócio
 
 #### Contribuições Pessoais
 
-Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de tela de cadastro e edição de deals e a tela de cadastro de cliente.
+Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de tela de cadastro e edição de deals e a tela de cadastro de cliente (HTLM/CSS).
 
 #### Hard Skills
 
@@ -180,7 +183,7 @@ A solução foi desenvolver o SrSoja, um App onde o agricultor possa analisar a 
 
 #### Contribuições Pessoais
 
-Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de tela de home junto com parte de seus componentes e a criação da tela mapa e em parte com a tela clima.
+Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de tela de home junto com parte de seus componentes (JavaScript/CSS) e a criação da tela mapa (JavaScript) e em parte com a tela clima (JavaScript).
 
 #### Hard Skills
 
@@ -215,7 +218,7 @@ A solução foi desenvolver o OP (Projeto Ocorrências Públicas), um App onde o
 
     Utilizado pela versatilidade e praticidade no desenvolvimento híbrido para aplicações mobile.
 
-- JavaScriprt:
+- JavaScript:
     
     Tecnologia principal do desenvolvimento, utilizada para a estruturação do servidor/Back-end (NodeJS) e as funcionalidades do Front-end (React Native).
 
@@ -229,7 +232,7 @@ A solução foi desenvolver o OP (Projeto Ocorrências Públicas), um App onde o
 
 #### Contribuições Pessoais
 
-Contribui com o desenvolvimento da tela de home e com algumas funções de buscas e componentes na tela de reportagem de ocorrência e com adição de máscaras nos registros.
+Contribui com o desenvolvimento da tela de home (JavaScript/CSS) e com algumas funções de buscas e componentes na tela de reportagem de ocorrência e com adição de máscaras nos registros (JavaScript).
 
 #### Hard Skills
 
@@ -247,10 +250,62 @@ Contribui com o desenvolvimento da tela de home e com algumas funções de busca
 
 ### Em 2023-1 (6ºSemestre)<a name="6Semestre"></a>
 
-[GIT](#)
+## Parceiro Acadêmico
+
+A empresa parceira para o desenvolvimento do projeto foi uma instituição de serviços financeiros.
+
+O problema fornecido pela empresa foi criar uma ferramenta de comparação de preços de tarifas de serviços bancários, utilizando os dados disponibilizados através do Open Finance (iniciativa realizada pelo Banco Central do Brasil).
+
+![LogoeFinance](https://github.com/MatheusEmboabaTeteu/Portifolio-TG/assets/70578084/904a4118-e18e-4d95-aa0e-34370a96d1bf)
+
+A solução foi desenvolver o eFinance, uma plataforma web que disponibiliza previsão de valores de tarifas dos serviços bancários das mais diversas instituições presentes no Open Finance Brasil e paineis para comparalos.
+
+#### Tecnologias Utilizadas:
+
+- Vue.js:
+
+    Framework de Javascript, utilizado para o desenvolvimento das interfaces do sistema.
+
+- TypeScript:
+    
+    Linguagem de Programação em scripts, superconjunto sintático do Javascript, utilizado no desenvolvimento da interfaces em conjunto do Vue.js.
+
+- Spring Boot:
+    
+    Framework do Java, utilizado no desenvolvimento do servidor back-end.
+
+- Java:
+
+    Linguagem de programação POO, utilizado no desenvolvimento do servidor back-end.
+  
+- Python:
+
+   Linguagem de programação, utilizado na modelagem de dados e treinamento da IA aplicada no sistema.
+
+#### Contribuições Pessoais
+
+Contribui com o desenvolvimento de funcionalidades no back-end que utilizavam (JAVA) e sua interação no front-end em (TypeScript), correções de bugs e erros nas telas e nas informações que elas apresentam(TypeScript/CSS) e preenchimento de informações nas tabelas (TypeScript/CSS).
+
+#### Hard Skills
+
+- Spring Boot (Java): Sei fazer com ajuda.
+
+- TypeScript - Sei fazer.
+
+- Java - Sei fazer com ajuda.
+
+#### Soft Skills
+
+- Comunicação: Como o grupo era pequeno comunicação foi essencial,para informar os menbros sobre os métodos e suporte.
+
+- Flexibilidade: Para se adaptar à novos métodos e a nova equipe.
+
 
 ## Meus Principais Conhecimentos<a name="Conhecimentos"></a>
 
+- CSS
+- TypeScript
+- Python
 - JavaScript (mobile)
 - MySQL
 - Prototipagem no FIGMA
