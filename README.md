@@ -3,12 +3,12 @@
 - [Introdução](#introducao)
 - [Meus Projetos](#Meus-Projetos)
 - [Em 2020-2 (1ºSemestre)](#1semestre)
-- [Em 2021-1 (2ºSemestre)](#2-Semestre)
-- [Em 2021-2 (3ºSemestre)](#3-Semestre)
-- [Em 2022-1 (4ºSemestre)](#4-Semestre)
-- [Em 2022-2 (5ºSemestre)](#5-Semestre)
-- [Em 2023-1 (6ºSemestre)](#6-Semestre)
-- [Meus Principais Conhecimentos](#Conhecimentos)
+- [Em 2021-1 (2ºSemestre)](#2semestre)
+- [Em 2021-2 (3ºSemestre)](#3semestre)
+- [Em 2022-1 (4ºSemestre)](#4semestre)
+- [Em 2022-2 (5ºSemestre)](#5semestre)
+- [Em 2023-1 (6ºSemestre)](#6semestre)
+- [Meus Principais Conhecimentos](#conhecimentos)
 - [Contatos](#Contatos)
 
 # Matheus Emboaba Mello de Souza!
@@ -54,7 +54,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e com o desenvolvi
 - Empatia: Foi vital para a equipe já que grande parte da equipe não tinha formação previa na área e tão pouco conhecimento.
 - Proatividade: Foi necessário, com poucos familiarizados com as tecnologias tivemos dar a iniciativa e pegar tasks ao qual nunca tivemos nenhum contato para adquirir conhecimento e experiência o mais rápido possível.
 
-## Em 2021-1 (2ºSemestre)<a name="2-Semestre"></a>
+## Em 2021-1 (2ºSemestre)<a name="2semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a GSW Soluções Integradas.
@@ -100,7 +100,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a ajudei na cria
 - Empatia: Os membros estavam tendo dificuldade com conhecimento das tecnologias e de como usá-las.
 
 
-## Em 2021-2 (3ºSemestre)<a name="3-Semestre"></a>
+## Em 2021-2 (3ºSemestre)<a name="3semestre"></a>
 
 
 ## Parceiro Acadêmico
@@ -148,7 +148,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 
 - Empatia: Os membros estavam tendo dificuldade com conhecimento.
 
-## Em 2022-1 (4ºSemestre)<a name="4-Semestre"></a>
+## Em 2022-1 (4ºSemestre)<a name="4semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Visiona Tecnologia Espacial.
@@ -202,7 +202,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
 
-## Em 2022-2 (5ºSemestre)<a name="5-Semestre"></a>
+## Em 2022-2 (5ºSemestre)<a name="5semestre"></a>
 
 ## Parceiro Acadêmico
 A empresa parceira foi a Fatec.
@@ -252,7 +252,7 @@ Contribui com o desenvolvimento da tela de home (JavaScript/CSS) e com algumas f
 
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
-## Em 2023-1 (6ºSemestre)<a name="6-Semestre"></a>
+## Em 2023-1 (6ºSemestre)<a name="6semestre"></a>
 
 ## Parceiro Acadêmico
 
@@ -307,7 +307,7 @@ Contribui com o desenvolvimento de funcionalidades no back-end que utilizavam (J
 - Flexibilidade: Para se adaptar à novos métodos e a nova equipe.
 
 
-## Meus Principais Conhecimentos<a name="Conhecimentos"></a>
+## Meus Principais Conhecimentos<a name="conhecimentos"></a>
 
 - CSS
 - TypeScript
