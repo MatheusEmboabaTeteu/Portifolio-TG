@@ -197,7 +197,7 @@ Contribui com o desenvolvimento do layout utilizando o FIGMA, e a criação de t
 
 #### Soft Skills
 
-- Flexibilidade: Para se adaptar à nova Tecnologia.
+- Flexibilidade: Para se adaptar as novas Tecnologia em tão pouco tempo devido ao número reduzido de sprints.
 
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
@@ -248,7 +248,7 @@ Contribui com o desenvolvimento da tela de home (JavaScript/CSS) e com algumas f
 
 #### Soft Skills
 
-- Flexibilidade: Para se adaptar as novas Tecnologia em tão pouco tempo devido ao número reduzido de sprints.
+- Flexibilidade: Para se adaptar à novos métodos.
  
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
