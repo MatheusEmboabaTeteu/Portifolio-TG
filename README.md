@@ -248,8 +248,8 @@ Contribui com o desenvolvimento da tela de home (JavaScript/CSS) e com algumas f
 
 #### Soft Skills
 
-- Flexibilidade: Para se adaptar à novos métodos.
-
+- Flexibilidade: Para se adaptar as novas Tecnologia em tão pouco tempo devido ao número reduzido de sprints.
+ 
 - Empatia: Os membros estavam tendo dificuldade para se adaptar á nova Tecnologia.
 
 ## Em 2023-1 (6ºSemestre)<a name="6semestre"></a>
